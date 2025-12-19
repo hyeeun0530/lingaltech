@@ -8,3 +8,5 @@ pypdf
 tiktoken
 pandas
 openpyxl
+langchain-core
+langchain-openai
