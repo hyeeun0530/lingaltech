@@ -10,3 +10,5 @@ pandas
 openpyxl
 langchain-core
 langchain-openai
+sentence-transformers
+langchain-huggingface
